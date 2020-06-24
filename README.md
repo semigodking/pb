@@ -15,9 +15,11 @@ File List
 - [redsocks2][3]
 - [tinymapper][4]
 - [udpfwd][5]
+- [transocks-wong][6]
 
 [1]: <https://github.com/semigodking/cdns>
 [2]: <https://github.com/curl/curl>
 [3]: <https://github.com/semigodking/redsocks> "redsocks2"
 [4]: <https://github.com/wangyu-/tinyPortMapper> "tinyPortMapper"
 [5]: <https://github.com/rssnsj/portfwd>
+[6]: <https://github.com/wongsyrone/transocks-wong>
